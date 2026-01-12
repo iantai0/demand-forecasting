@@ -1,2 +1,4 @@
 .vscode/
 oldresults/
+anonymize.py
+olddata/
